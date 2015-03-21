@@ -1,0 +1,175 @@
+/**
+  Theme Name: Basic Theme
+  Version: 1
+  Author: Trevor
+*/
+
+.fullwidth {
+	width: 100%;
+}
+
+.black {
+	background-color: black;
+}
+
+.type1 {
+	line-height: 20px;
+	font-size: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.footertype1 {
+	text-align: center;
+	margin-top: -10px;
+}
+
+.footer {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.gray2 {
+	background-color: #e2e1dd;
+}
+
+.noborder4 {
+	border-radius: 0px;
+	background-color: #e2e1dd;
+	height: 200px;
+}
+
+.squeeze {
+	width: 600px;
+}
+
+.space5 {
+	margin-bottom: 16px;
+}
+
+.marginround {
+	margin-bottom:22px ;
+}
+
+.finalfont a{
+	font-size: 20px;
+	color: black;
+	margin-top: 12px;
+} 
+
+.finalfont a:hover{
+	text-decoration: none;
+} 
+
+.center2 {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.noborder {
+	border:0px;
+	border-radius: 0px;
+}
+
+
+.logo {
+	color: white;
+	font-size: 20px;
+}
+
+.logodown {
+	margin-top: -6px;
+}
+
+.setwidth {
+	width: 1024px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.center3 {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.marginfocus {
+	margin-right: -26px;
+	margin-left: -26px;
+}
+
+.padding1 {
+	margin-left: 15px;
+	margin-bottom: 15px;
+
+}
+
+.down3 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	margin-left: 10px
+}
+
+.down4 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.down5 {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.white {
+	background-color: white;
+}
+
+.bottom {
+	margin-bottom: 12px;
+}
+
+.btn-primary {
+	border-radius: 0px;
+}
+
+a.logo {
+	text-decoration: none;
+}
+
+a.logo:hover {
+	text-decoration: none;
+	color: gray;
+}
+
+
+
+.spacing1 {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.nav-pills li.active a{
+	background-color: white;
+	color: black;
+}
+
+.nav-pills li.active a:hover { 
+	background-color: white;
+	color: black;
+}
+
+.nav-pills li a:focus { 
+	background-color: gray;
+	color: white;
+}
+
+.nav-pills li a:hover { 
+	background-color: white;
+	color: black;
+}
+
+.nav-pills li a { 
+	background-color: gray;
+	color: white;
+}
